@@ -27,7 +27,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func dButton(_ sender: UIButton) {
-        print("dButton\n")
         playSound(nameSound:"D")
     }
     @IBAction func eButton(_ sender: UIButton) {
